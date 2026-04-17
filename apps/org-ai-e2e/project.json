@@ -1,0 +1,9 @@
+{
+  "name": "org-ai-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/org-ai-e2e/src",
+  "implicitDependencies": ["org-ai"],
+  "// targets": "to see all targets run: nx show project org-ai-e2e --web",
+  "targets": {}
+}
